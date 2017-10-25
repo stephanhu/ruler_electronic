@@ -1,3 +1,6 @@
 (fp_lib_table
-  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo.pretty")(options "")(descr ""))
+  (lib (name shlib-switches)(type KiCad)(uri "/home/stephan/Dokumente/Projekte/Bibliotheken/KiCad Bibliotheken/footprints/shlib-switches.pretty")(options "")(descr ""))
+  (lib (name Inductors_SMD_self)(type KiCad)(uri "$(KIPRJMOD)/kicad_librarys/footprints/Inductors_SMD_self.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/kicad_librarys/footprints/logo.pretty")(options "")(descr ""))
+  (lib (name murata)(type KiCad)(uri "$(KIPRJMOD)/kicad_librarys/footprints/murata.pretty")(options "")(descr ""))
 )
