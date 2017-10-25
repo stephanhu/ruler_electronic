@@ -1,11 +1,9 @@
-update=Sa 14 Okt 2017 22:12:43 CEST
+update=Mi 25 Okt 2017 23:33:40 CEST
 version=1
 last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -39,13 +37,13 @@ LabSize=60
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=kicad_librarys/symbols/shlib-special
-LibName2=kicad_librarys/symbols/shlib-driver
-LibName3=kicad_librarys/symbols/shlib-power
-LibName4=kicad_librarys/symbols/shlib-radio
-LibName5=kicad_librarys/symbols/shlib-switches
-LibName6=kicad_librarys/symbols/shlib-touch
-LibName7=kicad_librarys/symbols/shlib-inductors
+LibName1=kicad_libraries/symbols/shlib-special
+LibName2=kicad_libraries/symbols/shlib-driver
+LibName3=kicad_libraries/symbols/shlib-power
+LibName4=kicad_libraries/symbols/shlib-radio
+LibName5=kicad_libraries/symbols/shlib-switches
+LibName6=kicad_libraries/symbols/shlib-touch
+LibName7=kicad_libraries/symbols/shlib-inductors
 LibName8=power
 LibName9=device
 LibName10=transistors
@@ -135,3 +133,5 @@ LibName93=Worldsemi
 LibName94=Xicor
 LibName95=zetex
 LibName96=Zilog
+[general]
+version=1
